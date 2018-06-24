@@ -8,7 +8,6 @@ import json
 from difflib import get_close_matches
 data = json.load(open("data.json"))
 
-print(type(data))
 
 #for key, value in data.items() :
 #   print (key, value)
